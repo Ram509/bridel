@@ -1,1 +1,6 @@
-header.js
+import react from 'react';
+
+const header = () => {
+return 
+}
+export default header;
